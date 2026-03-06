@@ -1,0 +1,120 @@
+[
+  {
+    "id": "stephan-carvallis-vaelor",
+    "nome": "Stephan Carvallis Vaelor",
+    "raca": "Humano",
+    "classe": "Bruxo/Guerreiro",
+    "subclasse": "Hexblade",
+    "facção": " ",
+    "atributos": {
+    "for": 8,
+    "des": 14,
+    "con": 14,
+    "int": 10,
+    "sab": 12,
+    "car": 18
+    },
+    "caster": true,
+    "tracos":"Um tanto quanto carismático, calmo e bom de copo. Está sempre fumando um ou dois cigarros, em busca do próximo. Busca diversão em meio ao caos, não de maneira exposta, mas interna. Não é muito de se abrir mas gosta de ouvir histórias. Música é uma de suas paixões, mas evita tocar em público. Se uma conversa começa a ficar séria demais, ele desvia com ironia ou seus vícios.Analisa, comenta, provoca discretamente. ",
+    "ideais":"O valor de alguém não é determinado pela sua utilidade. Acredita que amar é escolher permanecer. A vida só tem valor quando é escolhida.",
+    "defeitos":"Fuga por vícios e excesso, como cigarros, drogas, álcool e relações superficiais. Dificuldade em pedir ajuda genuína, performando uma autossuficiência inexistente.",    
+    "cenário": "Forgotten Realms",
+    "imagens": [
+    "assets/images/stephan-1.png",
+    "assets/images/stephan-2.png",
+    "assets/images/stephan-3.png",
+    "assets/images/stephan-4.png"
+    ],
+    "musica": "assets/audio/stephan-theme.mp3",
+    "musicas_showcase": "stephan",
+    "descricao_curta": "Stephan é um homem que já tentou desistir da própria vida e falhou — não por fraqueza, mas porque ainda não terminou de atravessar o que o quebrou. Carrega culpa, medo de não ser suficiente e uma necessidade silenciosa de provar que pode permanecer. Não busca mais fugir da dor; busca entender por que continua vivo.",
+    "historiaArquivo": "data/historias/stephan.html",
+    "reflavorsArquivo": "data/reflavors/stephan.html",
+    "relacionamentos": ["dion","helena"],
+    "mesa":"Forgotten Tales",
+    "destaque":true
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "funny-bunny-bones",
+    "nome": "Funny Bunny Bones",
+    "raca": "Harengon",
+    "classe": "Pugilista/Bárbaro",
+    "subclasse": "Subclasse Indefinida",
+    "atributos": {
+    "for": 10,
+    "des": 10,
+    "con": 10,
+    "int": 10,
+    "sab": 10,
+    "car": 10
+    },
+    "caster": true,
+    "tracos":"Bones fala pouco. Em tavernas, arenas ou becos, ele costuma ficar encostado em algum canto, ouvindo mais do que dizendo. Ele aprendeu cedo que quem fala demais perde informação. Mesmo nos ringues clandestinos, ele ainda carrega um reflexo do treinamento monástico. Golpes vêm acompanhados de um baixo “foi mal” ou “desculpa por isso”. Não é provocação. É hábito.</br>Bones pode desprezar nobres, monges hipócritas ou criminosos manipuladores, mas ele respeita qualquer pessoa que lute de verdade. Para ele, o combate é a linguagem mais honesta que existe. Ele não gosta de se meter em problemas desnecessários, mas se vir alguém sendo abusado ou explorado, a intervenção costuma ser rápida e silenciosa.",
+    "ideais":"Verdade acima da ordem. O mosteiro escolheu proteger sua reputação em vez de buscar a verdade. Bones nunca esqueceu isso. O mundo pode trair, mas um vínculo verdadeiro não deve ser abandonado. A busca por limpar o nome de Fao Laun é a prova disso. Cada cicatriz é uma lembrança de um caminho escolhido. Bones acredita que a maneira como alguém luta revela quem essa pessoa realmente é.",
+    "defeitos":"Mosteiros, guardas, ordens religiosas, nobres — Bones acredita que qualquer estrutura de poder pode mentir ou sacrificar inocentes para se proteger. Ele foi treinado para lutar e passou anos sobrevivendo em ringues e becos. Quando algo dá errado, a solução mais imediata que vem à cabeça ainda é bater primeiro. Quando uma pista sobre o caso de Fao Laun desaparece ou leva a lugar nenhum, Bones tende a se jogar em lutas mais perigosas do que deveria.",    
+    "facção": "Fight Club",
+    "cenário": "Forgotten Realms",
+    "imagens": [
+    "assets/images/mrbones-1.png",
+    "assets/images/mrbones-2.png",
+    "assets/images/mrbones-3.png",
+    "assets/images/mrbones-4.png"
+    ],
+    "musica": "assets/audio/bones-theme.mp3",
+    "descricao_curta": "Funny Bunny Bones é um harengon pugilista de poucos gestos e fala contida, criado em um mosteiro e treinado desde jovem em uma forma de combate disciplinada, porém brutal. Seu estilo mistura controle monástico com explosões de força quase primais, resultando em golpes pesados e diretos. Carrega sempre um pequeno sino quebrado preso ao cinto — um símbolo silencioso de seu passado e das verdades que ainda busca descobrir.",
+    "historiaArquivo": "data/historias/funny-bunny-bones.html",
+    "reflavorsArquivo": "data/reflavors/funny-bunny-bones.html",
+    "relacionamentos": ["fight-club"],
+    "mesa":"",
+    "destaque":true
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": "bimbledorf",
+    "nome": "Bimbledorf, O Maltrapido",
+    "raca": "Gnomo",
+    "classe": "Bruxo/Feiticeiro",
+    "subclasse": "Arquifada/Adepto das Sombras",
+    "atributos": {
+    "for": 11,
+    "des": 16,
+    "con": 15,
+    "int": 12,
+    "sab": 13,
+    "car": 16
+    },
+    "tracos":"Bimbledorf se esforça constantemente para parecer sombrio, misterioso e importante — o que normalmente só torna tudo mais engraçado. Ele guarda qualquer objeto minimamente estranho, pois acredita que qualquer um deles pode ser “a tal coisa” do contrato. Seus bolsos são um verdadeiro caos de itens inúteis… ou talvez não. Mesmo tentando ser sério, Bimbledorf frequentemente cria situações absurdas sem perceber. Por mais que não pareça, Bimbledorf é inteligente... o suficiente.",
+    "ideais":"Bimbledorf deseja profundamente ser visto como alguém digno de respeito e importância. Ele acredita que encontrar “a coisa” do contrato dará sentido à sua existência — mesmo que ninguém saiba exatamente o que é. Apesar de negar, ele guarda carinho pelo momento em que riu com o Bobo Afogado. Para ele, existe diferença entre rir de alguém e rir com alguém.",
+    "defeitos":"Ele se irrita profundamente quando alguém ri dele — mesmo quando não há maldade. Romance, demonstrações de carinho ou casais apaixonados deixam Bimbledorf extremamente desconfortável. Qualquer situação envolvendo água profunda vira um exercício intenso de negação. Se algo parece misterioso ou profético, Bimbledorf assume que deve ser relevante para seu destino.",
+    "facção": " ",
+    "cenário": "Forgotten Realms",
+    "imagens": [
+    "assets/images/bimbledorf-1.png",
+    "assets/images/bimbledorf-2.png",
+    "assets/images/bimbledorf-3.png"
+    ],
+    "musica": "assets/audio/bimbledorf-theme.mp3",
+    "descricao_curta": "Bimbledorf é um gnomo bruxo que tenta desesperadamente ser levado a sério em um mundo que insiste em achá-lo fofo. Após selar um pacto com o enigmático Bobo Afogado no fundo de um poço, sua magia assumiu uma forma aquática e absurda, marcada por sombras molhadas, bolhas que coaxam e patos de borracha inesperados.",
+    "historiaArquivo": "data/historias/bimbledorf.html",
+    "reflavorsArquivo": "data/reflavors/bimbledorf.html",
+    "relacionamentos": [""],
+    "mesa":"O Fim do Mundo"
+  }
+]
